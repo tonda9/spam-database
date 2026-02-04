@@ -1,8 +1,5 @@
-Faktura č. INV-69852
+Upozornění o bezpečnosti
 
-Dlužná částka: 50000 Kč
-Splatnost: 1.5.2024
+Na Vašem účtu byla provedena podezřelá transakce 5000 Kč. Okamžitě ověřte na http://malware-site-5388.com/phishing
 
-Pro úhradu klikněte: http://malware-site-4099.com/phishing
-
-Účetní oddělení
+Raiffeisenbank

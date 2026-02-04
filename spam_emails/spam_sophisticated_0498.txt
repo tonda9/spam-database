@@ -1,8 +1,5 @@
-Faktura č. INV-34809
+Upozornění o bezpečnosti
 
-Dlužná částka: 50000 Kč
-Splatnost: 3.8.2024
+Na Vašem účtu byla provedena podezřelá transakce 50000 Kč. Okamžitě ověřte na http://malware-site-8025.com/phishing
 
-Pro úhradu klikněte: http://malware-site-2983.com/phishing
-
-Účetní oddělení
+Raiffeisenbank

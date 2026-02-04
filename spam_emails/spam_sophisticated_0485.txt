@@ -1,8 +1,5 @@
-Faktura č. INV-56148
+Upozornění o bezpečnosti
 
-Dlužná částka: 15000 Kč
-Splatnost: 11.2.2024
+Na Vašem účtu byla provedena podezřelá transakce 5000 Kč. Okamžitě ověřte na http://malware-site-3194.com/phishing
 
-Pro úhradu klikněte: http://malware-site-5936.com/phishing
-
-Účetní oddělení
+Raiffeisenbank

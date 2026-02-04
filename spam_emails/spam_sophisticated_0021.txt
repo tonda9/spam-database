@@ -1,8 +1,5 @@
-Faktura č. INV-34979
+Upozornění o bezpečnosti
 
-Dlužná částka: 250000 Kč
-Splatnost: 5.3.2024
+Na Vašem účtu byla provedena podezřelá transakce 50000 Kč. Okamžitě ověřte na http://malware-site-5207.com/phishing
 
-Pro úhradu klikněte: http://malware-site-9243.com/phishing
-
-Účetní oddělení
+Raiffeisenbank

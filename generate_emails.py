@@ -92,7 +92,98 @@ COMMON_HAM = [
     "Skvělá práce na projektu!",
     "Oběd ve {time}?",
     "Všechno nejlepší k narozeninám!",
+    "Vidíme se v {time} u metra.",
+    "Zavolám ti večer.",
+    "Potřebuji domluvit schůzku.",
+    "Mám otázku k projektu.",
+    "Dobrá práce, pokračuj!",
+    "Zítra mám volno.",
+    "Přijdu o 5 minut později.",
+    "Máš čas na kávu?",
+    "Posílám fotky z výletu.",
+    "Děkuji za rychlou odpověď.",
+    "V pátek budu pryč.",
+    "Hotovo, můžeš zkontrolovat.",
+    "Potřebuji tvůj podpis.",
+    "Včera to bylo super!",
+    "Můžeme to probrat zítra?",
+    "Připomínka: schůzka v {time}",
+    "Máš pravdu, díky.",
+    "To je skvělý nápad!",
+    "Souhlasím s tímto řešením.",
+    "Zjistím a dám ti vědět.",
+    "Cesta zabere asi hodinu.",
+    "Jedu vlakem v {time}",
+    "Koupil jsem lístky.",
+    "Rezervoval jsem stůl na {time}",
+    "Film byl výborný!",
+    "Doporučuji tu restauraci.",
+    "Dneska je hezky.",
+    "Venku prší.",
+    "Máš klíče?",
+    "Vrátím se za chvíli.",
+    "Jsem u doktora.",
+    "Jedu nakoupit.",
+    "Zítra oslavy u {name}",
+    "Přijdeš na párty?",
+    "Máš můj notes?",
+    "Zapomněl jsem heslo.",
+    "Internet nejde.",
+    "Přijď kolem {time}",
+    "Zavolej mi pak.",
+    "Nashledanou zítra.",
+    "Hezký den!",
+    "Dobrou noc.",
+    "Díky moc!",
+    "Super!",
+    "OK",
+    "Jasně, můžu.",
+    "Bohužel nemůžu.",
+    "Omlouvám se za zpoždění.",
+    "Je to v pořádku.",
+    "Žádný problém.",
+    "Budu tam.",
+    "Nestihu to.",
+    "Možná přijdu.",
+    "Dám ti vědět.",
+    "Zavolám ti.",
+    "Napiš mi.",
+    "Pošli mi to emailem.",
+    "Kolik to stojí?",
+    "Kolik lidí přijde?",
+    "Kde to je?",
+    "Kdy začínáme?",
+    "Jak dlouho to trvá?",
+    "Potřebuji pomoc.",
+    "Můžu pomoct?",
+    "To je pro mě.",
+    "Zeptám se.",
+    "Nevím jistě.",
+    "Zkontroluj to prosím.",
+    "Hotovo!",
+    "Ještě pracuji na tom.",
+    "Málem hotovo.",
+    "Bude to trvat déle.",
+    "Udělám to hned.",
+    "Mám to připravené.",
+    "Všechno funguje.",
+    "Našel jsem chybu.",
+    "Opravím to.",
+    "Test prošel.",
+    "Máš to ve složce.",
+    "Archivoval jsem to.",
+    "Zpět v kanceláři.",
+    "Jsem na home office.",
+    "Sick day dnes.",
+    "Dovolená od zítřka.",
+    "Jsem zpátky.",
+    "Už jedu.",
+    "Za 10 minut tam budu.",
+    "Právě odjíždím.",
+    "Čekám na tebe.",
+    "Kde jsi?",
 ]
+
 
 def generate_spam_email(sophisticated=True, index=0):
     """Generate a spam email"""
@@ -146,38 +237,70 @@ def main():
     """Generate all emails"""
     print("Generating Czech email database for ML training...")
     
+    # Track generated content to avoid duplicates
+    generated_spam = set()
+    generated_ham = set()
+    
     # Generate sophisticated spam (500)
     print("Generating 500 sophisticated spam emails...")
-    for i in range(500):
+    i = 0
+    count = 0
+    max_attempts = 5000
+    while count < 500 and i < max_attempts:
         email = generate_spam_email(sophisticated=True, index=i)
-        with open(f"spam_emails/spam_sophisticated_{i+1:04d}.txt", "w", encoding="utf-8") as f:
-            f.write(email)
+        if email not in generated_spam:
+            generated_spam.add(email)
+            with open(f"spam_emails/spam_sophisticated_{count+1:04d}.txt", "w", encoding="utf-8") as f:
+                f.write(email)
+            count += 1
+        i += 1
     
     # Generate common spam (200)
     print("Generating 200 common spam emails...")
-    for i in range(200):
+    i = 0
+    count = 0
+    max_attempts = 2000
+    while count < 200 and i < max_attempts:
         email = generate_spam_email(sophisticated=False, index=i)
-        with open(f"spam_emails/spam_common_{i+1:04d}.txt", "w", encoding="utf-8") as f:
-            f.write(email)
+        if email not in generated_spam:
+            generated_spam.add(email)
+            with open(f"spam_emails/spam_common_{count+1:04d}.txt", "w", encoding="utf-8") as f:
+                f.write(email)
+            count += 1
+        i += 1
     
     # Generate sophisticated ham (500)
     print("Generating 500 sophisticated ham emails...")
-    for i in range(500):
+    i = 0
+    count = 0
+    max_attempts = 5000
+    while count < 500 and i < max_attempts:
         email = generate_ham_email(sophisticated=True, index=i)
-        with open(f"ham_emails/ham_sophisticated_{i+1:04d}.txt", "w", encoding="utf-8") as f:
-            f.write(email)
+        if email not in generated_ham:
+            generated_ham.add(email)
+            with open(f"ham_emails/ham_sophisticated_{count+1:04d}.txt", "w", encoding="utf-8") as f:
+                f.write(email)
+            count += 1
+        i += 1
     
     # Generate common ham (200)
     print("Generating 200 common ham emails...")
-    for i in range(200):
+    i = 0
+    count = 0
+    max_attempts = 10000  # Increased to ensure we get all unique emails
+    while count < 200 and i < max_attempts:
         email = generate_ham_email(sophisticated=False, index=i)
-        with open(f"ham_emails/ham_common_{i+1:04d}.txt", "w", encoding="utf-8") as f:
-            f.write(email)
+        if email not in generated_ham:
+            generated_ham.add(email)
+            with open(f"ham_emails/ham_common_{count+1:04d}.txt", "w", encoding="utf-8") as f:
+                f.write(email)
+            count += 1
+        i += 1
     
     print("\nDone! Generated:")
-    print("- 700 spam emails (500 sophisticated + 200 common)")
-    print("- 700 ham emails (500 sophisticated + 200 common)")
-    print("Total: 1400 emails for ML training")
+    print(f"- {len([f for f in os.listdir('spam_emails') if f.endswith('.txt')])} unique spam emails")
+    print(f"- {len([f for f in os.listdir('ham_emails') if f.endswith('.txt')])} unique ham emails")
+    print(f"Total: {len(generated_spam) + len(generated_ham)} unique emails for ML training")
 
 if __name__ == "__main__":
     main()

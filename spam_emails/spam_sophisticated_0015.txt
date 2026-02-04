@@ -1,6 +1,5 @@
-Dobrý den,
+Upozornění o bezpečnosti
 
-Detekovali jsme neautorizovanou aktivitu na Vašem účtu. Pro zabránění zablokování účtu prosím ověřte své údaje na: http://malware-site-5064.com/phishing
+Na Vašem účtu byla provedena podezřelá transakce 250000 Kč. Okamžitě ověřte na http://malware-site-2522.com/phishing
 
-S pozdravem,
-Komerční banka
+Raiffeisenbank

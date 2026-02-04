@@ -1,8 +1,5 @@
-Faktura č. INV-24944
+Upozornění o bezpečnosti
 
-Dlužná částka: 50000 Kč
-Splatnost: 1.10.2024
+Na Vašem účtu byla provedena podezřelá transakce 15000 Kč. Okamžitě ověřte na http://malware-site-8329.com/phishing
 
-Pro úhradu klikněte: http://malware-site-4300.com/phishing
-
-Účetní oddělení
+Raiffeisenbank
