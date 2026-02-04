@@ -10,7 +10,7 @@ import random
 # Sophisticated spam templates in Czech
 SOPHISTICATED_SPAM = [
     # Banking/Finance phishing
-    "Vážený kliente,\n\nVaše transakce v částce {amount} Kč vyžaduje potvrzení. Klikněte na následující odkaz pro autorizaci: {link}\n\nČeská spořitelna\nOdděleníbezpečnosti",
+    "Vážený kliente,\n\nVaše transakce v částce {amount} Kč vyžaduje potvrzení. Klikněte na následující odkaz pro autorizaci: {link}\n\nČeská spořitelna\nOddělení bezpečnosti",
     "Dobrý den,\n\nDetekovali jsme neautorizovanou aktivitu na Vašem účtu. Pro zabránění zablokování účtu prosím ověřte své údaje na: {link}\n\nS pozdravem,\nKomerční banka",
     "Upozornění o bezpečnosti\n\nNa Vašem účtu byla provedena podezřelá transakce {amount} Kč. Okamžitě ověřte na {link}\n\nRaiffeisenbank",
     

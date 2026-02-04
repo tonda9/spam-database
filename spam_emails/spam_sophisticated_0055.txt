@@ -1,8 +1,5 @@
-Faktura č. INV-29536
+Upozornění o bezpečnosti
 
-Dlužná částka: 10000 Kč
-Splatnost: 28.12.2024
+Na Vašem účtu byla provedena podezřelá transakce 5000 Kč. Okamžitě ověřte na http://malware-site-6959.com/phishing
 
-Pro úhradu klikněte: http://malware-site-9302.com/phishing
-
-Účetní oddělení
+Raiffeisenbank

@@ -1,8 +1,5 @@
-Faktura č. INV-93856
+Upozornění o bezpečnosti
 
-Dlužná částka: 25000 Kč
-Splatnost: 25.1.2024
+Na Vašem účtu byla provedena podezřelá transakce 5000 Kč. Okamžitě ověřte na http://malware-site-5915.com/phishing
 
-Pro úhradu klikněte: http://malware-site-7730.com/phishing
-
-Účetní oddělení
+Raiffeisenbank

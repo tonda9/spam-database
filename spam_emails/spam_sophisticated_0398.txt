@@ -1,8 +1,5 @@
-Faktura č. INV-48401
+Upozornění o bezpečnosti
 
-Dlužná částka: 15000 Kč
-Splatnost: 16.5.2024
+Na Vašem účtu byla provedena podezřelá transakce 25000 Kč. Okamžitě ověřte na http://malware-site-7858.com/phishing
 
-Pro úhradu klikněte: http://malware-site-2770.com/phishing
-
-Účetní oddělení
+Raiffeisenbank

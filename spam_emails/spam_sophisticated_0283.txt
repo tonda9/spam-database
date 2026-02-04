@@ -1,6 +1,5 @@
-Dobrý den,
+BEZPEČNOSTNÍ VÝSTRAHA
 
-Detekovali jsme neautorizovanou aktivitu na Vašem účtu. Pro zabránění zablokování účtu prosím ověřte své údaje na: http://malware-site-7674.com/phishing
+Váš počítač je infikován virem! Okamžitě nainstalujte antivirovou aktualizaci: http://malware-site-2835.com/phishing
 
-S pozdravem,
-Komerční banka
+Microsoft Česká republika

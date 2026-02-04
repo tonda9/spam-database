@@ -1,8 +1,5 @@
-Faktura č. INV-46371
+Upozornění o bezpečnosti
 
-Dlužná částka: 100000 Kč
-Splatnost: 15.1.2024
+Na Vašem účtu byla provedena podezřelá transakce 15000 Kč. Okamžitě ověřte na http://malware-site-5876.com/phishing
 
-Pro úhradu klikněte: http://malware-site-4731.com/phishing
-
-Účetní oddělení
+Raiffeisenbank

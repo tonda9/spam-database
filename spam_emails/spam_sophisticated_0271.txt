@@ -1,5 +1,6 @@
-Upozornění o bezpečnosti
+Vážený kliente,
 
-Na Vašem účtu byla provedena podezřelá transakce 5000 Kč. Okamžitě ověřte na http://malware-site-5833.com/phishing
+Vaše transakce v částce 100000 Kč vyžaduje potvrzení. Klikněte na následující odkaz pro autorizaci: http://malware-site-1512.com/phishing
 
-Raiffeisenbank
+Česká spořitelna
+Oddělení bezpečnosti

@@ -1,8 +1,5 @@
-Faktura č. INV-66562
+Upozornění o bezpečnosti
 
-Dlužná částka: 25000 Kč
-Splatnost: 5.8.2024
+Na Vašem účtu byla provedena podezřelá transakce 250000 Kč. Okamžitě ověřte na http://malware-site-6238.com/phishing
 
-Pro úhradu klikněte: http://malware-site-7474.com/phishing
-
-Účetní oddělení
+Raiffeisenbank
