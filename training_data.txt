@@ -1,0 +1,300 @@
+1,Vážený klient, máte možnost investovat do luxusních nemovitostí v zahraničí. Výnosy až 20%.
+0,Ahoj, tento týden máme akci na vybrané hry a hračky. Nakupuj online a ušetři.
+0,Ahoj, nova kolekce tricek je uz dostupna. Objednej si sve oblibene kusy jeste dnes.
+0,Dobry den, tento tyden mame specialni akci na elektroniku. Nakupujte online s dopravou zdarma.
+0,Milá paní, právě jsme spustili nový program odměn. Zaregistrujte se a začněte sbírat body.
+0,Vážený zákazníku, máme pro vás speciální nabídku na auto-moto produkty se slevou 20%.
+0,Dobry vecer, potreboval bych od vas potvrzeni do pátku. Je to mozne?
+0,Dobrý den, právě jsme spustili nový e-shop. Přijďte se podívat na naši aktuální nabídku.
+0,Dobrý večer, máme pro vás speciální nabídku na dětské oblečení. Nakupujte se slevou.
+1,Váš převod selhal. Zkuste znovu na: prevod-opakovat.cz bez prodlení.
+0,Dobrý den, informujeme vás o změně provozních hodin. Nová doba: Po-Pá 9-17.
+0,Dobrý den, váš účet byl úspěšně vytvořen. Přihlašovací údaje najdete v tomto e-mailu.
+0,Dobrý večer, máme pro vás speciální nabídku na elektronické knihy. Nakupujte se slevou.
+0,V období vánočních svátků bude provoz omezen. Otevřeno opět od 2. ledna.
+0,Potvrzujeme změnu vašeho telefonního čísla. Nové číslo je již aktivní.
+1,Dobry den, vase zasilka byla zadrzena. Uhrdte 80 Kc na: zasilka-uvolneni.cz dnes.
+1,Dobrý den, vaše data jsou neúplná. Doplňte informace na: doplneni-udaju.cz do zítra.
+0,Vase platba byla zamítnuta. Zkontrolujte prosím údaje karty a zkuste to znovu.
+0,Ahoj, rádi bychom vás pozvali na akci výprodeje letní kolekce. Přijďte si vybrat své oblíbené kousky.
+0,Dobry den, tento mesic mame akci na zahradni nabytek. Objednavejte s dopravou zdarma.
+0,Dobrý večer, chtěl jsem se zeptat, jestli můžete pomoct s tím projektem.
+1,Váš účet potřebuje bezpečnostní upgrade. Pokračujte: bezpecnost-upgrade.cz ihned.
+1,Váš balík má poškozené štítky. Potvrďte údaje: stitky-oprava.cz do 12 hodin.
+0,Vážená zákaznice, právě jsme přidali nové barvy do naší kolekce. Podívejte se na web.
+1,Dobrý den, váš účet vyžaduje autentizaci. Pokračujte: autentizace.cz bez prodlení.
+0,Ahoj Lenko, díky za pomoc s tím projektem. Opravdu si toho vážím.
+0,Milý zákazníku, nová kolekce podzimní módy je tady. Prohlédněte si novinky na našich webových stránkách.
+0,Ahoj, zitra mam dovolenou. Muzeme to prehodit na pristi tyden?
+0,Dobrý den, rádi bychom vás pozvali na prezentaci našich nových služeb příští týden.
+0,Upozorňujeme, že zítra bude v budově odstávka elektřiny od 8:00 do 12:00.
+0,Upozorňujeme vás, že váš kredit vyprší za 14 dní. Dobijte si ho přes náš portál.
+0,Váš profil byl úspěšně aktualizován. Nové údaje jsou již platné.
+0,Upozorňujeme na změnu kontaktních údajů. Nové telefonní číslo: 224 567 890.
+0,Dobrý den, rád bych s vámi prodiskutoval termíny nového projektu. Kdy máte čas?
+0,Ahoj, díky za tvou registraci do našeho programu. Brzy ti pošleme více informací.
+0,Dobrý den, váš požadavek byl zpracován. Výsledek najdete ve vašem zákaznickém účtu.
+1,Dobrý den, vaše platební údaje jsou zastaralé. Aktualizujte: platba-update.cz dnes.
+0,Vážený zákazníku, máme pro vás speciální nabídku na nové produkty se slevou 20%. Navštivte náš e-shop.
+0,Dobrý den, vaše doména byla úspěšně prodloužena na další rok. Děkujeme.
+0,Dobrý den, jako člen našeho klubu dostáváte měsíční newsletter s tipy a radami. Přejeme příjemné čtení.
+0,Potvrzujeme přijetí vaší platby. Služby budou aktivovány do 24 hodin.
+0,Vážená paní, rád bych se zeptal na termín naší spolupráce. Můžeme si zavolat?
+0,Potvrzujeme změnu vašeho dodacího místa. Příští zásilky budou doručeny na novou adresu.
+0,Ahoj, máme pro tebe speciální nabídku na kosmetiku. Využij slevu 15% s kódem BEAUTY15.
+0,Upozorneni: Dnes probiha skoleni zamestnancu. Odpovedi na dotazy budou zpozdene.
+1,Dobrý den, investice do našich projektů jsou zajištěné státní zárukou. Info na statni-investice.cz
+0,Ahoj, chces jit vecer na pivo? Mohl bych se bavit o tom vikendu na chate.
+0,Vazeny zakazniku, dekujeme za nakup u nas. Urcite si prohlednete nase novinky v sekci doplnky.
+1,Vážený investore, přidejte se k našemu programu a vydělávejte i ve spánku.
+1,Dobrý den, váš účet potřebuje revalidaci. Pokračujte na: banka-revalidace.cz do konce týdne.
+0,Dobrý den, vaše zásilka byla vrácena odesílateli. Kontaktujte nás pro více informací.
+0,Dobrý den, vaše zpětná vazba byla zaznamenána. Děkujeme za váš čas.
+0,Dobrý večer, vaše smlouva byla úspěšně prodloužena. Děkujeme za vaši důvěru.
+1,Dobrý den, zjistili jsme porušení bezpečnosti. Změňte údaje: zmena-udaju.cz ihned.
+0,Ahoj, uz si ty materialy pripravil? Budeme je potrebovat v pondeli.
+0,Milá zákaznice, právě jsme přidali nové produkty do naší nabídky. Podívejte se, co pro vás máme.
+1,Dobrý večer, máte volné prostředky? Investujte je s námi a získejte až 22% ročně.
+0,Dobrý den, vaše objednávka č. 54321 byla úspěšně zrušena. Peníze budou vráceny do 5 dnů.
+0,Dobrý večer, posílám vám návrh na schůzku. Dejte mi prosím vědět, jestli vám to vyhovuje.
+0,Vážený pane, váš nákup byl úspěšně zpracován. Děkujeme za vaši objednávku.
+0,Dobrý večer, vaše transakce byla zamítnuta z bezpečnostních důvodů. Kontaktujte banku.
+1,Váš balík vyžaduje potvrzení příjemce. Potvrďte: prijemce-potvrzeni.cz dnes.
+0,Dobrý den, vaše licence byla prodloužena. Platnost do 31. prosince 2025.
+0,Milá paní, připravili jsme pro vás jarní kolekci. Prohlédněte si novinky na našich stránkách.
+0,Upozorneni: Vase sluzby budou pozastaveny za 5 dnu kvuli neuhrazene fakture.
+1,Ahoj, hledám investory do startupů. Již máme 3 úspěšné projekty. Zajímá tě to?
+0,Vaše zásilka je na cestě. Sledujte ji pomocí čísla CS987654321 na našem webu.
+1,Dobrý den, detekovali jsme podezřelou aktivitu na vašem účtu. Ověřte své údaje zde: kb-bezpecnost.cz
+0,Vazeny pane, rad bych vam posknul vice informaci o nasem projektu. Muzeme se sejit zitra?
+0,Ahoj Petro, zítra máme schůzku ve tři odpoledne. Nezapomeň si vzít materiály k projektu.
+0,Dobrý večer, informujeme vás o změně adresy naší pobočky. Nová adresa v e-mailu.
+1,Váš účet je v mínusu. Doplňte kredit: kredit-doplneni.cz do půlnoci.
+1,Ahoj, investoval jsem 50 tisíc a za měsíc mám 75 tisíc. Chceš se přidat? Napiš mi.
+0,Ahoj, právě jsme přidali nové funkce do naší aplikace. Aktualizujte si ji a vyzkoušejte novinky.
+1,Dobrý den, nabízíme investice do zlata s minimálním rizikem. Výnosy až 12% ročně.
+1,Dobrý den, vaše faktura je po splatnosti. Uhraďte: faktura-uhrada.cz do zítřka.
+0,Vážený pane, posílám vám návrh smlouvy ke kontrole. Dejte mi prosím vědět.
+0,Upozorňujeme, že některé služby budou dočasně nedostupné kvůli upgradu systému.
+1,Upozorňujeme na problém s doručením. Vyřešte: problem-doruceni.cz dnes.
+0,Dobrý den, chtěl jsem vás informovat, že schůzka byla přesunuta na příští úterý.
+0,Dobry den, tento mesic probiha inventura. Muze dojit k prodlevam pri vyrizovani objednavek.
+1,Ahoj, znam zpusob jak vydelat na forexu. Ukazal bych ti strategii, ktera funguje.
+0,Dobry vecer, vase rezervace byla potvrzena. Tešime se na vasi navstevu 20. kvetna.
+0,Ahoj, dnes budu pozde. Muzem se sejit az zitra rano?
+1,Váš účet bude uzavřen za 24 hodin. Zabráníte tomu na: ucet-zachrana.cz dnes.
+0,Dnes večer mezi 20:00 a 22:00 proběhne plánovaná údržba databází. Děkujeme za trpělivost.
+0,Vážená paní, děkuji za váš e-mail. Odpovím vám co nejdříve.
+1,Vážený pane, máme pro vás speciální nabídku na investice do kryptoměn s pojištěním.
+0,Faktura za elektřinu za období leden-březen je k dispozici v zákaznickém portálu.
+1,Dobrý večer, vaše transakce byla zamítnuta. Zopakujte platbu: transakce-oprava.cz ted.
+1,Vazena zakaznice, vase doruceni je pozastaveno. Pokracujte: doruceni-pokracovani.cz.
+1,Upozornění: Vaše platební údaje jsou neplatné. Opravte: udaje-oprava.cz dnes.
+1,Váš účet má nedokončenou verifikaci. Dokončete: dokonceni-verifikace.cz do 24 hodin.
+0,Dobry vecer, vase sluzby byly upgradovany. Nove funkce jsou uz dostupne ve vasem uctu.
+1,Dobrý večer, váš účet má dluh 250 Kč. Uhraďte: dluh-uhrada.cz do půlnoci.
+1,Dobrý večer, potřebujeme ověřit vaši totožnost. Navštivte: totožnost-overeni.cz ted.
+0,Vážený zákazníku, nabízíme vám prodloužení záruky na vámi zakoupené zboží. Více informací na našich stránkách.
+1,Dobrý den, nabízíme investice do solárních elektráren s návratností 3 roky. Více na solarni-investice.cz
+0,Vaše žádost o výplatu byla schválena. Peníze budou převedeny do 3 pracovních dnů.
+1,Upozornění: Váš převod vyžaduje autorizaci. Autorizujte: prevod-autorizace.cz ted.
+0,Ahoj, dekujeme za registraci. Tvuj ucet byl uspesne vytvoren a muzesh zacit nakupovat.
+0,Dobrý večer, vaše zásilka byla předána kurýrovi. Očekávejte doručení do 24 hodin.
+0,Faktura č. 2024001 za služby v březnu je připravena ke stažení ve vašem účtu.
+0,Potvrzujeme zrušení vaší služby. Přístup bude ukončen koncem tohoto měsíce.
+1,Ahoj, investuješ někam? Mám skvělou příležitost s minimálním rizikem a vysokým výnosem.
+1,Vážený kliente, váš účet vyžaduje okamžité ověření. Pokračujte na csob-overeni-2024.cz do 48 hodin.
+0,Ahoj Kláro, nesla bys mi půjčit tu knihu? Velmi bych ji potřeboval.
+0,Potvrzujeme platbu částky 1250 Kč za objednávku č. 67890. Děkujeme za váš nákup.
+1,Dobry den, nabizime investice do nemovitosti s vynosem 20% rocne. Bezpecne a overene.
+0,Dobrý den, máme pro vás speciální balíček služeb za zvýhodněnou cenu. Více na webu.
+0,Milá zákaznice, připravili jsme pro vás průvodce naší nabídkou. Stáhněte si ho z našeho webu.
+0,Váš účet byl ověřen. Můžete začít používat všechny naše služby bez omezení.
+0,Ahoj Tome, mohl bys mi zavolat? Potreboval bych s tebou neco probrat.
+0,Váš kupón byl úspěšně uplatněn. Sleva 15% bude automaticky odečtena při objednávce.
+1,Dobrý den, máme pro vás investiční příležitost s garantovaným výnosem 15% ročně. Více info na investice-garantovane.cz
+0,Dobry den, muzete se tesit na nasi novou kolekci kabelek. Prave dorazila do skladu.
+0,Ahoj, díky za tvůj e-mail. Odpovím ti na tvoje otázky do konce týdne.
+0,Ahoj Jano, nezapomen na rodinnou oslavu v sobotu. Těšíme se na tebe.
+1,Upozornění: Váš přístup bude omezen. Ověřte se na: overeni-pristupu.cz do půlnoci.
+1,Váš profil byl napadnut. Zabezpečte ho zde: zabezpeceni-profilu.cz okamžitě.
+0,Upozorňujeme, že váš certifikát SSL vyprší za 14 dní. Obnovte ho na našem portálu.
+0,Dobry den, nase zimni kolekce prave dorazila do skladu. Objednavejte online s dopravou zdarma.
+1,Dobrý den, nabízíme portfolio diverzifikovaných investic. Garantovaný růst vašich úspor.
+1,Vazeny klient, vase heslo je slabe. Zmente ho na: heslo-posílení.cz dnes.
+1,Upozorňujeme na chybějící údaje k platbě. Doplňte: udaje-doplneni.cz okamžitě.
+0,Upozorňujeme, že parkování bude dočasně omezeno kvůli stavebním pracím.
+0,Milá paní, děkujeme za vaši zpětnou vazbu. Vaše připomínky jsou pro nás důležité.
+0,Ahoj Pavle, mohl bys mi poradit s tím problémem? Nevím, jak ho vyřešit.
+1,Vážený investore, náš fond dosáhl výnosu 25% za poslední rok. Přidejte se k nám: fond-vynos.cz
+1,Upozorňujeme na expiraci účtu. Prodlužte ho na: prodlouzeni-uctu.cz do zítra.
+1,Váš email vyžaduje potvrzení. Potvrďte na: email-potvrzeni.cz do půlnoci.
+0,Vaše objednávka č. 44556 byla stornována na základě vašeho požadavku. Peníze vrátíme do týdne.
+0,Potvrzujeme přijetí vaší stížnosti. Vyřízení do 30 dnů dle reklamačního řádu.
+0,Ahoj, uz jsi dorazil? Cekam na tebe u vchodu.
+0,Ahoj, máme pro tebe zajímavou nabídku na fitness produkty. Slevy až 30% na vybrané položky.
+0,Ahoj, právě jsme přidali nové barvy do naší kolekce bot. Podívej se na web.
+0,Milý zákazníku, máme pro vás speciální nabídku na zimní oblečení. Slevy až 40%.
+0,Ahoj, chceš být informován o našich akcích jako první? Aktivuj si notifikace v aplikaci.
+1,Dobrý večer, nabízíme investice s garantovanou návratností. Žádné skryté poplatky.
+0,Vážená zákaznice, rádi bychom vás informovali o nových službách, které jsme připravili.
+0,Informujeme vás o plánované údržbě webu. Proběhne v noci z pátku na sobotu.
+1,Vazeny zajem, nase spolecnost garantuje zhodnoceni vasich uspor o 18% za rok.
+0,Vaše zásilka byla doručena na výdejní místo. Můžete si ji vyzvednout během 7 dnů.
+1,Vazeny klient, vas ucet je pozastaven. Reaktivujte na: reaktivace-uctu.cz dnes.
+0,Dobrý den, vaše heslo bylo úspěšně změněno. Pokud jste tuto změnu neprovedli vy, kontaktujte nás.
+0,Váš certifikát byl úspěšně vydán. Můžete si ho stáhnout ve vašem profilu.
+0,Vase heslo bylo obnoveno. Pokud jste o obnovu nezadali, kontaktujte nasi podporu okamzite.
+0,Faktura c. 2024055 za mobilni sluzby je pripravena. Castka k uhrade: 450 Kc. Splatnost: 14 dni.
+1,Dobrý den, zjistili jsme podezřelou transakci. Ověřte: transakce-overeni.cz dnes.
+0,Ahoj, pošli mi prosím tu adresu. Zapomněl jsem si ji poznamenat.
+1,Vazeny klient, vas ucet bude pozastaven. Overste se na: banka-aktivace-2024.cz ihned.
+0,Dobrý den, rád bych vás pozval na pracovní oběd příští týden. Máte čas?
+0,Ahoj, právě jsme přidali nové recepty do naší sekce inspirace. Zkus je vyzkoušet.
+0,Dobrý večer, vaše předplatné bylo zrušeno. Děkujeme za využívání našich služeb.
+1,Dobrý den, vaše platba čeká na potvrzení. Potvrďte: platba-potvrzeni.cz ihned.
+0,Dobrý večer, právě jsme otevřeli novou pobočku ve vašem městě. Přijďte nás navštívit.
+0,Vážený pane, jako stálému zákazníkovi vám nabízíme prioritní přístup k našim akcím.
+0,Dobrý den, vaše platba byla zpracována. Účtenku si můžete stáhnout ve vašem profilu.
+0,Dobrý den, jako člen našeho věrnostního programu máte nárok na exkluzivní slevy. Podívejte se na naší nabídku.
+1,Váš balík nemá správnou cenu. Doplaťte 65 Kč: cena-doplatok.cz ihned.
+0,Ahoj, posílám ti fotky z dovolené. Doufám, že se ti budou líbit.
+0,Ahoj, dekujeme za tvuj nakup. Tvoje balicek bude dorucen do 3 pracovnich dnu.
+0,Vazena zakaznice, nase podzimni akce prave zacina. Objednavejte s dopravou zdarma.
+1,Upozornění: Váš profil bude smazán. Zabráníte na: profil-zruseni.cz okamžitě.
+1,Dobrý den, nabízíme investice do umění s vysokým potenciálem růstu hodnoty.
+0,Vaše objednávka č. 12345 byla úspěšně přijata. Očekávaný termín doručení je 3-5 pracovních dnů.
+0,Faktura za služby pojištění je připravena. Stáhněte si ji a uhraďte do 30 dnů.
+0,Ahoj, chceš získat slevu 10%? Doporuč nás svým přátelům a získej bonus.
+1,Dobrý večer, vaše transakce je pozastavena. Obnovte: transakce-obnova.cz dnes.
+0,Dobrý den, posílám vám výsledky z minulého týdne. Všechno je v přiložených souborech.
+1,Váš přístup byl omezen kvůli bezpečnosti. Obnovte: obnova-pristupu.cz ihned.
+0,V pátek bude naše kancelář uzavřena kvůli firemní akci. Omlouvame se za komplikace.
+0,Dobry den, tento vikend mame akci na domaci spotrebice. Navstivte nas v prodejne.
+0,Upozorňujeme, že vaše karta vyprší koncem tohoto měsíce. Objednejte si novou online.
+1,Dobrý večer, máte zájem o pasivní příjem? Naše investice přináší stabilní výnosy. Kontakt na finalni-prijem.cz
+0,Dobrý večer, mohl byste mi poslat kontakt na toho dodavatele? Dekuji.
+0,Dobry den, muzete mi poslat ten rozpocet? Potrebuji ho do zitrejsi porady.
+1,Váš účet má neuhrazenou částku. Zaplaťte: castka-uhrada.cz do zítřka.
+0,Faktura za plyn za období duben-červen je připravena ke stažení. Splatnost: 21 dnů.
+1,Vaše balík čeká na celnici. Zaplaťte clo 120 Kč zde: celni-poplatek.cz do zítřka.
+0,Dobrý den, připravili jsme pro vás průvodce výběrem správných produktů. Stáhněte si ho zdarma.
+0,Milý zákazníku, těšíme se na vaši příští návštěvu v našem obchodě. Přejeme hezký den.
+1,Upozornění: Vaše platba selhala. Aktualizujte údaje karty na: platba-oprava.cz ihned.
+0,Dobrý den, informujeme vás o aktualizaci našich obchodních podmínek. Platí od 1.4.
+0,Ahoj, tento měsíc si můžeš užít slevy na vybrané knihy v našem obchodě. Zastavte se.
+1,Upozornění: Váš účet bude smazán za 48 hodin. Ověřte identitu na: ucet-overeni.cz
+0,Vážená zákaznice, jako členka našeho klubu máte nárok na bezplatnou dopravu.
+0,Dobrý den, rádi bychom vás informovali o změnách v našem sortimentu. Více na webu.
+0,Dobrý den, chtěl jsem vás informovat o změně termínu schůzky. Vyhovuje vám středa?
+0,Potvrzujeme změnu vašeho e-mailu. Od této chvíle používejte novou adresu pro přihlášení.
+0,Ahoj Dane, šel bys dnes odpoledne na kávu? Chtěl bych si s tebou popovídat.
+1,Ahoj, znáš někoho, kdo by chtěl investovat do kryptoměn? Mám osvědčenou strategii s vysokými zisky.
+0,Vazeny zakazniku, muzete se tesit na nasi vanoce akci. Sledujte nase stranky pro vice informaci.
+0,Ahoj, dekujeme za tvuj nakup u nas. Doufame, ze jsi spokojena s vybranym zbozim.
+0,Ahoj, pojd s námi zítra na večeři. Budeme na tom novém místě v centru.
+1,Vazeny uzivatel, detekovali jsme riziko. Chraňte se na: ochrana-uctu.cz ted.
+0,Dobry den, vase sluzby byly obnoveny. Dekujeme za uhrazeni faktury.
+0,Dobrý večer, máme novou kolekci sportovního oblečení. Prohlédněte si novinky na webu.
+0,Upozorňujeme, že váš balíček čeká na poště. Vyzvedněte si ho do 15 dnů.
+1,Váš email bude deaktivován. Předejte na: email-aktivace.cz do 48 hodin.
+0,Vážená zákaznice, jako náš stálý zákazník získáváte bonus 100 Kč na další nákup.
+1,Vazeny zakazniku, vase zasilka vyzaduje overeni. Overste: zasilka-overeni.cz.
+1,Ahoj, znáš kryptoměnu která právě startuje? Můžeš být mezi prvními investory.
+0,Dobrý den, chtěl jsem se zeptat na váš názor k té věci, o které jsme mluvili.
+1,Vaše zásilka potřebuje potvrzení. Potvrďte na: potvrzeni-doruceni.cz do 24 hodin.
+1,Detekovali jsme neautorizovaný přístup k vašemu účtu. Změňte heslo zde: prihlaseni-bezpecnost.cz
+1,Váš bezpečnostní certifikát vypršel. Obnovte ho zde: certifikat-obnova.cz bez prodlení.
+0,Milý zákazníku, těšíme se, že využijete naše služby. Přejeme vám příjemný den.
+1,Upozorňujeme na neobvyklou aktivitu. Zkontrolujte svůj účet: kontrola-uctu.cz okamžitě.
+0,Faktura č. 2024078 za webhosting je k dispozici. Částka: 299 Kč. Zaplaťte do 10 dnů.
+0,Upozorňujeme, že platba nebyla připsána. Zkontrolujte prosím údaje a zkuste znovu.
+0,Dobry vecer, muzete se tesit na nasi jarni kolekci. Registrujte se a ziskejte pristup jako prvni.
+0,Vase objednavka byla expedovana. Sledovaci cislo: CZ123456789. Ocekavane doruceni do 2 dnu.
+0,Ahoj Jirko, jak se ti daří? Dlouho jsme se neviděli. Dáme si někdy pivo?
+0,Dobrý den, vaše registrace byla dokončena. Přihlašte se pomocí vašeho e-mailu a hesla.
+1,Dobrý večer, váš účet byl kompromitován. Změňte údaje: kompromis-udaje.cz ihned.
+1,Vazeny zakazniku, prosim potvrdte sve osobni udaje do 24 hodin na: csob-verifikace.cz
+0,Dobrý den, připravili jsme pro vás katalog nové kolekce. Můžete si ho stáhnout online.
+1,Dobrý den, váš balík vyžaduje dodatečný poplatek. Zaplaťte: dodatecny-poplatek.cz dnes.
+0,Vážený pane, právě jsme spustili nový věrnostní program. Zaregistrujte se ještě dnes.
+0,Potvrzujeme rezervaci na datum 15. května 2024. Těšíme se na vaši návštěvu.
+0,Dobry den, vase objednavka c. 99887 byla uspesne dodana. Muzete ji hodnotit ve vasem uctu.
+0,Dobrý večer, zaregistrovali jsme vaši objednávku. Těšíme se na vaši návštěvu v našem obchodě.
+0,Faktura za parkovací služby je připravena. Uhraďte prosím 200 Kč do 5 dnů.
+0,Dobrý den, informujeme o změně bankovního účtu pro platby. Nové číslo v příloze.
+0,Vazena zakaznice, dnes startuje nase black friday akce. Pripravte se na nejlepsi slevy roku.
+0,Vážená paní, děkujeme za vaši věrnost. Připravili jsme pro vás dárkový poukaz v hodnotě 500 Kč.
+0,Dobrý den, váš tarif byl úspěšně změněn. Nové podmínky platí od prvního dne příštího měsíce.
+1,Dobrý večer, váš účet vyžaduje okamžitou akci. Pokračujte: akce-ucet.cz bez odkladu.
+0,Dobrý den, poslední šance získat slevu 25% na vybrané produkty. Akce končí o půlnoci.
+0,Vážená zákaznice, těšíme se na vaši další návštěvu. Přejeme příjemný víkend.
+1,Váš balík nemůže být zpracován. Pokračujte: zpracovani-baliku.cz okamžitě.
+0,Upozorňujeme na změnu dodacích podmínek. Nové podmínky platí od příštího měsíce.
+1,Vazeny zakazniku, detekovali jsme pokus o prihlaseni. Overste na: pokus-prihlaseni.cz.
+0,Dobrý večer, právě jsme spustili nový blog s tipy a radami. Přijďte si přečíst články.
+1,Vážený klient, dostali jste pozvánku do exkluzivního investičního klubu. Registrace na klub-investory.cz
+1,Upozorňujeme na pokus o hacknutí. Zabezpečte se: hacknutí-prevence.cz okamžitě.
+1,Dobrý večer, máte zájem o investice do renewable energy? Výnosy až 17% ročně.
+0,Ahoj Míšo, nezapomeň na to, co jsme si slíbili. Díky za spolupráci.
+0,Váš účet byl dočasně uzamčen z bezpečnostních důvodů. Pro odemčení navštivte náš web.
+1,Dobrý den, váš e-mail vyžaduje aktualizaci bezpečnostních nastavení. Klikněte zde: email-bezpecnost.cz
+0,Dobry den, vase objednavka c. 33445 je pripravena k vyzvednuti. Prijdte behem 7 dnu.
+0,Vážený pane, váš věrnostní program byl úspěšně aktivován. Začněte sbírat body už dnes.
+0,Ahoj, muzete se tesit na nasi valentynskou akci. Pripravte se na nejlepsi darky.
+1,Dobrý večer, váš profil vyžaduje potvrzení. Klikněte na: profil-potvrzeni.cz do 12 hodin.
+0,Faktura za připojení k internetu je připravena. Stáhněte si ji ve vašem zákaznickém účtu.
+0,Vaše smlouva vyprší za 30 dní. Prodlužte si ji online a využijte naši akci.
+1,Ahoj, mám tip na investici do bioplynu. Garantovaný výnos a ekologické. Zajímá tě to?
+1,Váš účet byl dočasně zablokován. Pro odemčení navštivte: ceska-sporitelna-overeni.cz
+1,Váš přístup bude zablokován. Předejděte na: blokovani-prevence.cz do 12 hodin.
+1,Dobrý večer, máme limitovanou nabídku na investice s bonusem 5% navíc. Rychle rozhodnout.
+1,Vazeny uzivatel, vas ucet potrebuje verifikaci. Postupujte na: verifikace-uctu.cz ted.
+0,Potvrzujeme změnu vašich kontaktních údajů. Data byla úspěšně aktualizována.
+0,Ahoj, těšíme se na vaši další návštěvu. Nezapomeňte na své bonusové body z minulé objednávky.
+0,Potvrzujeme přijetí vaší reklamace č. R-2024-789. Vyřízení do 30 dnů.
+0,Váš účet byl úspěšně smazán. Všechna vaše data byla odstraněna dle GDPR.
+0,Vážený pane, posílám vám aktualizovaný harmonogram. Zkontrolujte ho prosím.
+1,Vaše zásilka je blokována. Uvolněte ji na: zasilka-odblokovani.cz okamžitě.
+0,Dobrý den, poslední dny našeho letního výprodeje. Nakupujte ještě dnes a využijte slevy.
+0,Dobrý večer, právě jsme přidali nové produkty do kategorie domácnost. Mrkněte na ně.
+0,Potvrzujeme vrácení zboží. Peníze budou připsány na váš účet do 10 pracovních dnů.
+0,Vaše objednávka č. 11223 je připravena k vyzvednutí na naší pobočce. Přijďte kdykoliv.
+0,Upozorňujeme vás, že platnost vašeho předplatného vyprší za 7 dní. Prodlužte si ho online.
+1,Dobrý den, vaše zásilka nemůže být doručena. Uhraďte poplatek 49 Kč na: doruceni-poplatek.cz
+0,Milý zákazníku, máme pro vás speciální nabídku na vánoční dárky. Nakupujte s jistotou.
+1,Váš balík má problém s adresou. Potvrďte doručení na: adresa-potvrzeni.cz do večera.
+0,Upozorňujeme, že jste dosáhli limitu pro stažení dat. Navyšte si ho ve vašem profilu.
+0,Dobrý den, děkujeme za vaši objednávku. Budeme vás informovat o průběhu expedice.
+0,V pondělí 10. května je státní svátek. Kanceláře budou uzavřeny.
+1,Vaše heslo vyprší za 24 hodin. Aktualizujte ho na: bezpecne-heslo-update.cz
+1,Dobry den, vase doruceni ma problem s celnicí. Vyrezte: celnice-vyrizeni.cz.
+1,Dobrý den, vaše údaje jsou v ohrožení. Aktualizujte: udaje-aktualizace.cz dnes.
+0,Ahoj, díky za pozvánku. Bohužel tam nebudu moct, mám již jiný program.
+0,V období letních prázdnin budeme zavřeni od 1. do 15. srpna. Děkujeme za pochopení.
+1,Váš účet byl nahlášen jako podezřelý. Ověřte totožnost: banka-totožnost.cz dnes.
+1,Dobry den, nase investicni portfolio prinasi stabilni zisky. Minimalni vklad 20 tisic Kc.
+0,Dobry den, informujeme vas o presunu nasi pobocky do novych prostor. Adresa v priloze.
+1,Dobry den, vase karta byla zamitnuta. Zkuste jinou: karta-oprava.cz ted.
+0,Faktura c. 2024111 za cloudove sluzby je k dispozici. Castka: 899 Kc. Splatnost: 7 dnu.
+1,Ahoj, mám kontakt na investiční skupinu s úspěšností 95%. Chceš víc informací?
+0,Dobry den, nase letni akce prave zacina. Vyuzte slevy na vybranou elektroniku.
+0,Vazeni zakaznisi, tento tyden mame v provozu zkracenou pracovni dobu kvuli svatku.
+0,Váš úkol byl úspěšně odeslán. Odpověď obdržíte do 48 hodin.
+1,Vazeny zajem, nase investice jsou overene a bezpecne. Prumerny vynos 14% rocne.
+0,Potvrzujeme přijetí vaší žádosti. Vyřízení do 14 pracovních dnů.
+1,Upozorňujeme na neúspěšnou platbu. Uhraďte na: neuspesna-platba.cz okamžitě.
+0,V sobotu 15. března proběhne údržba systému. Služby budou nedostupné 2-4 hodiny.
+0,Dobrý den, posílám vám zprávu o dokončení úkolu. Reporty jsou připraveny ke kontrole.
+0,Faktura č. 2024099 za telefonní služby je k dispozici. Částka: 550 Kč. Uhraďte do 14 dnů.
+0,Vážený zákazníku, děkujeme za vaši věrnost. Nabízíme vám exkluzivní přístup k novinkám.
+0,Vážená paní, děkuji za váš čas a trpělivost. Vážím si toho.
+0,Vážený pane, rád bych s vámi probral detaily smlouvy. Můžeme si zavolat zítra?
+0,Vaše zpráva byla odeslána. Odpovíme vám co nejdříve.
+0,Váš newsletter byl úspěšně odhlášen. Již nebudete dostávat naše e-maily.
+0,Ahoj Marto, mohl bys mi poslat ten dokument, o kterém jsme mluvili? Díky moc.
+0,Vaše zásilka nemohla být doručena. Kontaktujte nás pro další pokus o doručení.
+1,Vážený investore, připojte se k tisícům spokojených klientů. Průměrný výnos 16% ročně.
+1,Dobry den, investice do nasich projektu jsou pojistene proti ztrátě. Stabilni vynosy.
+1,Dobrý den, vaše faktura má nesrovnalost. Zkontrolujte: faktura-kontrola.cz ihned.
+0,Dobry den, mohl byste mi poslat prezentaci z minule porady? Dekuji.

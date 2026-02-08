@@ -8,9 +8,11 @@ This dataset contains Czech language emails for training spam/ham classification
 
 1. **spam.txt** - 500 spam emails (786 KB)
 2. **ham.txt** - 1000 legitimate emails (372 KB)
+3. **training_data.txt** - 300 training emails (200 HAM + 100 SPAM) in simple CSV format
 
 ### Format
 
+#### spam.txt & ham.txt
 Each email is separated by `===EMAIL===` and follows this structure:
 
 ```
@@ -20,6 +22,21 @@ To: <recipient@email.com>
 Date: <Czech format date>
 
 <email body>
+```
+
+#### training_data.txt
+Simple CSV format, one email per line:
+```
+<label>,<email text>
+```
+Where:
+- `0` = HAM (legitimate email)
+- `1` = SPAM (phishing/scam)
+
+Example:
+```
+0,Dobrý den, vaše objednávka byla přijata.
+1,Váš účet vyžaduje okamžité ověření na bezpecnost-uctu.cz
 ```
 
 ### Spam Categories
@@ -71,13 +88,52 @@ Date: <Czech format date>
 ### Usage
 
 ```python
-# Load spam emails
+# Load spam emails (original format)
 with open('spam.txt', 'r', encoding='utf-8') as f:
     spam_emails = f.read().split('===EMAIL===')
 
-# Load ham emails  
+# Load ham emails (original format)
 with open('ham.txt', 'r', encoding='utf-8') as f:
     ham_emails = f.read().split('===EMAIL===')
+
+# Load training data (CSV format)
+import csv
+training_data = []
+with open('training_data.txt', 'r', encoding='utf-8') as f:
+    reader = csv.reader(f)
+    for row in reader:
+        label = int(row[0])
+        text = row[1]
+        training_data.append((label, text))
+```
+
+### Training Data (training_data.txt)
+
+The `training_data.txt` file contains 300 compact training emails specifically designed for quick prototyping and model training:
+
+**Composition:**
+- 200 HAM emails (label: 0)
+  - 70 newsletters/promo for existing customers
+  - 70 system emails (invoices, password changes, order confirmations)
+  - 40 personal or work communication
+  - 20 neutral announcements
+- 100 SPAM emails (label: 1)
+  - 40 realistic phishing (account verification, security)
+  - 30 payment or delivery problems
+  - 30 investment/financial scams written subtly
+
+**Features:**
+- Each email is 1-5 sentences (concise format)
+- Mix of formal and informal Czech language
+- Includes variants with and without diacritics
+- Realistic Czech phishing techniques
+- No exaggerated spam (no CAPSLOCK floods, no emoji abuse)
+- Shuffled labels for training
+
+**Generation:**
+To regenerate or create similar datasets, use:
+```bash
+python3 generate_training_data.py
 ```
 
 ### Notes
