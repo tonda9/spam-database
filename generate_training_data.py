@@ -326,7 +326,7 @@ def generate_spam_emails():
         "Vážený klient, dostali jste pozvánku do exkluzivního investičního klubu. Registrace na klub-investory.cz",
         "Ahoj, investoval jsem 50 tisíc a za měsíc mám 75 tisíc. Chceš se přidat? Napiš mi.",
         "Dobrý den, nabízíme investice do solárních elektráren s návratností 3 roky. Více na solarni-investice.cz",
-        "Vazeny zajem, nase spolecnost garantuje zhodnoceni vasich usapor o 18% za rok.",
+        "Vazeny zajem, nase spolecnost garantuje zhodnoceni vasich uspor o 18% za rok.",
         "Dobrý večer, máte volné prostředky? Investujte je s námi a získejte až 22% ročně.",
         "Ahoj, hledám investory do startupů. Již máme 3 úspěšné projekty. Zajímá tě to?",
         "Dobrý den, nabízíme investice do zlata s minimálním rizikem. Výnosy až 12% ročně.",
